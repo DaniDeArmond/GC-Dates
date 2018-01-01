@@ -92,7 +92,7 @@ namespace GC_Dates
                     }
                     else
                     {
-                        Console.Write("Your dates are not in the correct format. Please try again.");
+                        Console.Write("Your dates are not in the correct format. Please try again." + Environment.NewLine);
                     }
                 }
 
@@ -120,6 +120,7 @@ namespace GC_Dates
 
                 if (doAgain == 'Y' || doAgain == 'y')
                 {
+                    repeat2 = true;
                     Console.Write(Environment.NewLine + Environment.NewLine);
                 }
                 else
