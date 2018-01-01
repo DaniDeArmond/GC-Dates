@@ -1,0 +1,7 @@
+C:\Users\Dani\source\repos\GC-Dates\GC-Dates\obj\Debug\GC-Dates.csprojResolveAssemblyReference.cache
+C:\Users\Dani\source\repos\GC-Dates\GC-Dates\obj\Debug\GC-Dates.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\GC-Dates\GC-Dates\bin\Debug\GC-Dates.exe.config
+C:\Users\Dani\source\repos\GC-Dates\GC-Dates\bin\Debug\GC-Dates.exe
+C:\Users\Dani\source\repos\GC-Dates\GC-Dates\bin\Debug\GC-Dates.pdb
+C:\Users\Dani\source\repos\GC-Dates\GC-Dates\obj\Debug\GC-Dates.exe
+C:\Users\Dani\source\repos\GC-Dates\GC-Dates\obj\Debug\GC-Dates.pdb
